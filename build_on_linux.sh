@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GIT_REPO="https://github.com/LedgerHQ/lib-ledger-core.git"
+GIT_REPO="https://github.com/kodxana/lib-ledger-core.git"
 GIT_BRANCH="develop"
 GIT_BIN=$(which git)
 APT_BIN=$(which apt)
